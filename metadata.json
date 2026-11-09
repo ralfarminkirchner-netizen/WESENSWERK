@@ -1,0 +1,6 @@
+{
+  "name": "Phaenomene — Transdiagnostischer Atlas Psychischer & Neurodivergenter Phänomene",
+  "description": "Interaktives Graphennetzwerk und phänomenologischer Atlas aller bekannten psychischen, neurodivergenten und somatopsychischen Phänomene nach AMDP, RDoC, ICD-11 und HPO mit visuellen Metaphern, Differentialdiagnostik und Live-Wikipedia/PubMed-Verknüpfung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
